@@ -1,13 +1,12 @@
 {
     "name": "eva/event-dispatcher",
-    "description": "Common interface for HTTP messages",
+    "description": "Common event dispatcher",
     "keywords": [],
     "homepage": "https://github.com/thewarmthofyourhands",
     "license": "MIT",
     "authors": [
         {
-            "name": "Rost",
-            "homepage": "https://google.com/"
+            "name": "thewarmthofyourhands"
         }
     ],
     "require": {

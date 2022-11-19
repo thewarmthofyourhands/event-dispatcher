@@ -6,5 +6,5 @@ namespace Eva\EventDispatcher;
 
 interface ListenerProviderInterface
 {
-    public function getListenersForEvent(object $event) : iterable;
+    public function getListenersForEvent(object $event): iterable;
 }

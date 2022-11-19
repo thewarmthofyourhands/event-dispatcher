@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Eva\EventDispatcher;
 
-use Eva\DependencyInjection\ContainerInterface;
+use Psr\Container\ContainerInterface;
 
 class EventDispatcherProvider
 {
